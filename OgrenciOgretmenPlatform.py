@@ -349,4 +349,4 @@ while True:
         else:
             print("Geçersiz işlem...")
             break
-
+        break
